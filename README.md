@@ -61,3 +61,7 @@ computervisioncode.ipynb – Colab notebook with full code
 computervisionreport.docx – Detailed project documentation
 
 clearSKY.jpeg, polluted.jpeg, pollutionIMG.png – Sample input images
+
+pollution_results.csv – Output file containing calculated visual features and pollution scores for each image. This file can be used for analysis, validation, or integration with external dashboards.
+
+
